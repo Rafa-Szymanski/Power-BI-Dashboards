@@ -6,5 +6,9 @@ My first Power BI dashboards with Just-IT
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ![My second Power Bi](https://github.com/Rafa-Szymanski/Power-BI-Dashboards/assets/126152573/9a90f313-e989-4ae1-baeb-9fb21856db94)
