@@ -1,9 +1,16 @@
 # Power-BI-Dashboards
 My first Power BI dashboards with Just-IT
-
+<br>
+<br>
+<br>
+<br>
 
 ![My First Power Bi](https://github.com/Rafa-Szymanski/Power-BI-Dashboards/assets/126152573/515bfc72-66d8-4fb4-a88a-17bac2c5e4c4)
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
